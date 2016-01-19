@@ -1,0 +1,19 @@
+h3{
+ 	font-family: Geneva, Arial, Helvetica, sans-serif;
+  }
+
+p#left{
+ 	text-align: left;
+  }
+
+p#center{
+ 	text-align: center;
+  }
+
+p#right{
+ 	text-align: right;
+  }
+
+p#justify{
+ 	text-align: justify;
+  }
