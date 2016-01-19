@@ -1,5 +1,10 @@
+h1{
+ 	 	color: red;
+  }
+
 h3{
  	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: blue;
   }
 
 p#left{
